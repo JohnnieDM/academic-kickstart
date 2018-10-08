@@ -10,31 +10,36 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Differential Privacy",
+    "Machine Learning",
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computational Linguistics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "UC Santa Cruz"
+  year = Present
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Computer Science"
+  institution = "UC Santa Cruz"
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "BA in Computer Science"
+  institution = "UC Santa Cruz"
+  year = 2016
+
+[[education.courses]]
+  course = "BA in Linguistics"
+  institution = "UC Santa Cruz"
+  year = 2016
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Johnnie Chang is a PhD Student in Computer Science at UC Santa Cruz. Her research interests include differential privacy, machine learning, natural language processing and data science. She is working on word prediction with local differential privacy as well as genomic data analysis with Prof. Abhradeep Guha Thakurta.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
