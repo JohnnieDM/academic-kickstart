@@ -15,7 +15,8 @@ date = "2018-02-15"
 image = ""
 image_preview = ""
 math = false
-publication = "The publishing part of the citation goes here. You may use *Markdown* for italics etc."
+publication = "Clustering System Data
+using Aggregate Measures. *SysML Conference 2018*."
 title = "Clustering System Data using Aggregate Measures"
 url_code = ""
 url_dataset = ""
