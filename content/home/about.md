@@ -41,5 +41,5 @@ weight = 5
 
 # Biography
 
-I am a PhD Student in Computer Science at UC Santa Cruz. My research interests include differential privacy, machine learning, natural language processing and data science. I am working on word prediction with local differential privacy as well as genomic data analysis with Prof. Abhradeep Guha Thakurta.
+I am a PhD Student in Computer Science at UC Santa Cruz. My research interests include differential privacy, machine learning, natural language processing and data science. I am working on word prediction with local differential privacy as well as genomic data analysis with Prof. Abhradeep Guha Thakurta. Prior to that, I received a Bachelor of Arts in Linguistics, with a focus on French, and a Bachelor of Arts in Computer Science in UC Santa Cruz.
 
