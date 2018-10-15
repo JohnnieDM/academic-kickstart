@@ -7,8 +7,8 @@ date = "2018-05-24"
 image = ""
 image_preview = ""
 math = false
-publication = "Autocompletion with Local Dierential Privacy. *IEEE Security and Privacy Symposium (S&P 2018)* (Poster)."
-title = "Autocompletion with Local Dierential Privacy"
+publication = "Autocompletion with Local Differential Privacy. *IEEE Security and Privacy Symposium (S&P 2018)* (Poster)."
+title = "Autocompletion with Local Differential Privacy"
 url_code = ""
 url_dataset = ""
 url_pdf = "pdf/poster_autocompletion_local_differential_privacy.pdf"
