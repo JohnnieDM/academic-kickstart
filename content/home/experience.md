@@ -26,7 +26,8 @@ date_format = "January 2006"
   date_start = "2018-06-18"
   date_end = "2018-09-14"
   description = """
-  
+
+
   * Curated production data for Machine Learning application.
   * Applied Deep Learning and traditional ML techniques on software integrity au-
 tomation using production data.
