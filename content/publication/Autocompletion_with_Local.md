@@ -11,7 +11,7 @@ publication = "Autocompletion with Local Dierential Privacy. *IEEE Security and
 title = "Autocompletion with Local Dierential Privacy"
 url_code = ""
 url_dataset = ""
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "pdf/poster_autocompletion_local_differential_privacy.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
