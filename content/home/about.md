@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "UC Santa Cruz"
-  year = Present
+  year = 0
 
 [[education.courses]]
   course = "MS in Computer Science"
