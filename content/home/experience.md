@@ -32,6 +32,7 @@ date_format = "January 2006"
   * Applied Deep Learning and traditional ML techniques on software integrity au-
 tomation using production data.
   * Prepared project codebase and transferred knowledge for productization.
+  * Project received the Synopsys ACE South Asia Award, 2018.
   """
 
 +++
