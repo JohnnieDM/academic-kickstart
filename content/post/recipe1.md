@@ -27,10 +27,11 @@ which interested me last time at the farmer's market but was unavailable this ti
 -
 
 ## Steps
-'''python
+```python
 def abc():
   if True:
     return 1.2 + 1
   else:
     return str
-'''
+```
+
