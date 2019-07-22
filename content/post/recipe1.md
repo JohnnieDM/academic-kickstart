@@ -16,9 +16,21 @@ though I intended to use lion's mane mushrooms,
 which interested me last time at the farmer's market but was unavailable this time.
 
 - Sausage: 1
-> I am using Polish sausages from the farmer's market.
+> I am using Polish sausages from the market.
 
+- Thyme: 1/4 bunch
 
+- Basil: 1 sprig.
+> Using purple basil.
+> The aroma of basil is strong and may over-power thyme, so use conservatively.
 
+-
 
 ## Steps
+'''python
+def abc():
+  if True:
+    return 1.2 + 1
+  else:
+    return str
+'''
