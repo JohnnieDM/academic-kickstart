@@ -5,6 +5,15 @@ draft: true
 ---
 
 I will start my recipe recording with my dinner plan today, 07/21/19.
+I try to organize and display this recipe in less conventional and more practical (IMO) ways,
+but this is still not ideal.
+
+My idea of an ideal recipe should be mechanical enough that one can easily turn it into a kitchen agenda,
+yet organized enough that one can easily coordinate with other recipes for a more complete meal.
+It should be some sort of balance between listing steps in chronological order
+and "object oriented" grouping preparation steps by outcome units.
+And it definitely should not include a whole diary of emotional connections, not always at least.
+
 
 # Sausage mushroom pasta and pear salad, 1 serving.
 
@@ -14,8 +23,8 @@ I will start my recipe recording with my dinner plan today, 07/21/19.
 - Fresh egg pasta
 
 ### Veggies
-- Mushrooms: ~1/2 pint
-> Or, obviously, as much as liked.
+- Mushrooms: ~1/3 pint, or a heaping handful.
+> Or, obviously, as much as you like.
 I am using oyster mushrooms,
 though I intended to use lion's mane mushrooms,
 which interested me last time at the farmer's market but was unavailable this time.
@@ -48,7 +57,7 @@ which interested me last time at the farmer's market but was unavailable this ti
 ```
 Wet prep:
 Tri-wash salad greens.
-Rinse tomatoes, thyme, pear, mushrooms.
+Rinse tomatoes, thyme, basil, pear, mushrooms.
 ```
 
 ```
@@ -67,12 +76,15 @@ Slice garlic and shallots.
 
 Finely chop thyme, except for 4 to 6 sprigs.
 
+Finely chop basil.
+
 Score sausage with 3 or 4 slits, and lay the thyme sprigs on top.
 
 ```
 
 ```
 Oven:
+Preheat at 400 F.
 
 Line baking dish with parchment paper/foil.
   Use two dishes to avoid mixing flavors of ingredients for pasta and for salad,
@@ -81,18 +93,23 @@ Line baking dish with parchment paper/foil.
 
 Place the sausage (with thyme sprigs) and the tomatoes in the 2/3 part,
 and the pear cubes into the 1/3.
+
+Spray or sprinkle with olive oil on all.
+
+Bake for 15 mins or until sausage is cooked.
 ```
 
 ```
 Pasta base:
-Heat olive oil in a pan.
-
+Heat olive oil in a (lidded) pan with medium heat.
+Add, in order, and not adding next until you smell aroma of the current: shallots, thyme, garlic.
+Then add mushrooms and 1 cup of water, and cook for 2 to 3 minutes.
+Finally, add in fresh pasta, spread out in pan, cover with lid and let it cook for 1 minute.
 ```
 
-```python
-def Rinse(item):
+```
+Rinse(item):
   place item under running water
-  
 ```
 
 ```
