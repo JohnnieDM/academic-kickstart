@@ -26,7 +26,7 @@ date_format = "January 2006"
   location = "Seattle, Washington"
   date_start = "2019-06-17"
   date_end = "2019-09-13"
-  description = "Privacy-aware on-device learning to improve the population's health."
+  description = "Build privacy-aware, on-device machine learning models to improve the population's health and wellness while preserving the privacy and anonymity of each user."
 
 
 [[experience]]
