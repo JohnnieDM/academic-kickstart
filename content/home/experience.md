@@ -21,7 +21,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Software Engineering Intern"
-  company = "Google"
+  company = "Google LLC"
   company_url = ""
   location = "Seattle, Washington"
   date_start = "2019-06-17"
